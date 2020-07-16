@@ -1,0 +1,3 @@
+include ':CircleImageView'
+include ':app'
+rootProject.name = "DD4You Circle Image View"
